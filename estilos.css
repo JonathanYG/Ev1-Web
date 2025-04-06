@@ -150,6 +150,7 @@ header {
   padding-bottom: 40px 0px;
   margin-left: 20px;
   margin-right: 20px;
+  margin-bottom: 40px;
   gap: 40px;
   flex-wrap: nowrap;
   background-color: white;
