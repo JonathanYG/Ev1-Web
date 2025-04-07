@@ -85,7 +85,7 @@ header {
 
 .welcome-container {
   display: flex;
-  justify-content: center;
+  justify-content: start;
   align-items: center;
   text-align: center;
 }
@@ -395,6 +395,13 @@ footer {
   }
   .screen a {
     align-self: center;
+  }
+
+  .welcome-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
   }
 
   .cards-container {
